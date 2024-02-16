@@ -2,27 +2,24 @@
 
 Me chamo Luiz e sou um desenvolvedor de aplicativos móveis. Bem-vindo ao meu perfil do GitHub!
 
-🔭 Atualmente estou trabalhando em alguns projetos pessoais e explorando novas tecnologias para desenvolvimento mobile.
-🌱 Estou sempre aprendendo e aprimorando minhas habilidades em desenvolvimento de aplicativos para Android.
-👯 Estou aberto a colaborações em projetos interessantes de código aberto relacionados a aplicativos móveis.
-💬 Sinta-se à vontade para me perguntar sobre desenvolvimento de aplicativos móveis, Android ou qualquer outra coisa relacionada a tecnologia!
-📫 Você pode me encontrar no LinkedIn: Luiz
-😄 Pronomes: Ele/dele
-⚡ Curiosidade: Sou apaixonado por tecnologia desde criança e adoro criar soluções inovadoras!
+🔭 Atualmente estou trabalhando em alguns projetos pessoais e explorando novas tecnologias para desenvolvimento mobile. Estou particularmente interessado em desenvolvimento Android, onde tenho experiência sólida e estou sempre em busca de desafios estimulantes.
 
-#### Linguagens e Tecnologias:
+🌱 Além do desenvolvimento para Android, tenho conhecimento em várias outras tecnologias, incluindo Java, Kotlin, JavaScript, CSS e HTML. Estou sempre procurando expandir meu conhecimento e me manter atualizado com as últimas tendências no mundo do desenvolvimento de software.
 
-- Java
-- Kotlin
-- JavaScript
-- CSS
-- HTML
+#### Projetos Destacados:
+
+- **App de Gerenciamento de Tarefas (Android):** Desenvolvi um aplicativo Android para gerenciamento de tarefas, permitindo aos usuários organizar suas tarefas de forma eficiente. O aplicativo utiliza arquitetura MVVM e integração com Firebase para armazenamento em nuvem.
+
+- **Aplicativo de Receitas (Android):** Contribuí para o desenvolvimento de um aplicativo Android de receitas, onde os usuários podem encontrar e compartilhar receitas de culinária. Utilizei RecyclerView, Retrofit para consumir APIs REST e Room para persistência de dados local.
 
 #### Estatísticas de Linguagens:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobile-luiz&layout=compact)](https://github.com/mobile-luiz)
 
-Fique à vontade para explorar meus repositórios e entre em contato se quiser colaborar ou apenas bater um papo sobre tecnologia. Estou sempre em busca de novas oportunidades e conexões!
+📫 Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) para oportunidades de colaboração ou para saber mais sobre meu trabalho.
+
+Fique à vontade para explorar meus repositórios e entre em contato se quiser colaborar ou discutir ideias. Estou sempre em busca de novas oportunidades e conexões!
+
 
 
 
