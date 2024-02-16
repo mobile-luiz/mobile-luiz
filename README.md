@@ -16,7 +16,7 @@ Me chamo Luiz e sou um desenvolvedor de aplicativos móveis. Bem-vindo ao meu pe
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobile-luiz&layout=compact)](https://github.com/mobile-luiz)
 
-📫 Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) para oportunidades de colaboração ou para saber mais sobre meu trabalho.
+📫 Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/jose-luiz-vicente-90b4b895/) para oportunidades de colaboração ou para saber mais sobre meu trabalho.
 
 Fique à vontade para explorar meus repositórios e entre em contato se quiser colaborar ou discutir ideias. Estou sempre em busca de novas oportunidades e conexões!
 
