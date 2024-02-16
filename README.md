@@ -18,10 +18,11 @@ Me chamo Luiz e sou um desenvolvedor de aplicativos móveis. Bem-vindo ao meu pe
 - CSS
 - HTML
 
-#### Estatísticas de Contribuição:
+#### Estatísticas de Linguagens:
 
-![Estatísticas de Contribuição](https://github-readme-stats.vercel.app/api?username=mobile-luiz&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobile-luiz&layout=compact)](https://github.com/mobile-luiz)
 
 Fique à vontade para explorar meus repositórios e entre em contato se quiser colaborar ou apenas bater um papo sobre tecnologia. Estou sempre em busca de novas oportunidades e conexões!
+
 
 
