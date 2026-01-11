@@ -1,57 +1,67 @@
-# 👋 Olá, eu sou o Luiz!
-**Android Developer | Mobile Engineer**
+<div align="center">
+  <h1>👋 Olá, eu sou o Luiz</h1>
+  <p><b>Software Engineer | Android Specialist</b></p>
+  
+  <p><i>Transformando ideias em experiências mobile nativas de alta performance.</i></p>
 
-Sou um desenvolvedor focado no ecossistema Android, apaixonado por criar aplicações performáticas, escaláveis e com design centrado no usuário. Atualmente, dedico meu tempo ao aperfeiçoamento de arquiteturas modernas e Clean Code.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-#### 📱 Mobile & Core
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-#### 🏛️ Arquitetura & Persistência
-* **Architecture:** MVVM, Clean Architecture.
-* **Jetpack:** Room, ViewModel, LiveData, Navigation Component.
-* **Networking:** Retrofit, OkHttp, Consumo de APIs REST.
-* **Web Basics:** JavaScript, HTML5, CSS3.
+  <a href="https://www.linkedin.com/in/jose-luiz-vicente-90b4b895/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### 📌 Projetos em Destaque
-
-#### 📝 [Gerenciador de Tarefas](https://github.com/mobile-luiz)
-*App robusto para organização pessoal.*
-* **Tech Stack:** Kotlin, MVVM, Firebase Auth & Firestore.
-* **Destaque:** Implementação de sincronização em tempo real e offline-first.
-
-#### 🍳 [App de Receitas](https://github.com/mobile-luiz)
-*Exploração e compartilhamento de culinária.*
-* **Tech Stack:** Java, Retrofit, Room Database, Glide.
-* **Destaque:** Gerenciamento eficiente de cache de imagens e persistência local de dados.
+### ⚡ Sobre Mim
+Desenvolvedor focado no ecossistema **Android**, com forte base em arquiteturas modernas e princípios **SOLID**. Especialista em construir aplicações escaláveis utilizando **Kotlin** e as melhores práticas do **Jetpack**.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🛠️ Stack Técnica
 
-> **Nota:** .
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Kotlin, Java, JavaScript |
+| **Android SDK** | Jetpack (Compose, Room, Navigation, LiveData), Coroutines |
+| **Arquitetura** | MVVM, Clean Architecture, Dependency Injection (Hilt/Koin) |
+| **Networking** | Retrofit, OkHttp, Apollo GraphQL |
+| **Firebase** | Auth, Firestore, Cloud Messaging, Crashlytics |
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mobile-luiz&layout=compact&langs_count=8&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mobile-luiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+---
+
+### 🚀 Projetos em Foco
+
+#### 📱 [Task Flow (Android)](https://github.com/mobile-luiz)
+> **Arquitetura Reativa:** Gerenciador de tarefas focado em produtividade.
+> - Implementação de **Offline-First** com Room Database.
+> - Injeção de dependência e Fluxo de dados com StateFlow.
+
+#### 🥘 [Recipe Finder](https://github.com/mobile-luiz)
+> **Consumo de API:** App de busca de receitas globais.
+> - Otimização de performance com **Paging Library**.
+> - Interface rica com animações do MotionLayout.
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mobile-luiz&layout=compact&langs_count=6&theme=transparent&title_color=38bdf8&text_color=e2e8f0&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mobile-luiz&show_icons=true&theme=transparent&title_color=38bdf8&text_color=e2e8f0&hide_border=true&include_all_commits=true" />
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mobile-luiz&theme=transparent&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luiz-vicente-90b4b895/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-
-🚀 *Sempre evoluindo, uma linha de código por vez.*
+<div align="center">
+  <p><i>"Sempre evoluindo, uma linha de código por vez."</i></p>
+  <img src="https://raw.githubusercontent.com/mursalfk/mursalfk/master/assets/bottom_header.svg" width="100%" />
+</div>
 
 
 
