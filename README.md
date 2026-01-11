@@ -1,93 +1,57 @@
-# 👋 Olá! Eu sou Luiz
+# 👋 Olá, eu sou o Luiz!
+**Android Developer | Mobile Engineer**
 
-💻 **Desenvolvedor Mobile | Android**
-📱 Foco em aplicações Android modernas, escaláveis e bem arquitetadas
-
-Sou desenvolvedor mobile com experiência sólida em **Android**, atuando na criação de aplicações performáticas, com código limpo, boas práticas e foco na experiência do usuário. Tenho perfil proativo, gosto de aprender continuamente e encarar novos desafios técnicos.
+Sou um desenvolvedor focado no ecossistema Android, apaixonado por criar aplicações performáticas, escaláveis e com design centrado no usuário. Atualmente, dedico meu tempo ao aperfeiçoamento de arquiteturas modernas e Clean Code.
 
 ---
 
-## 🚀 Sobre mim
+### 🛠️ Tecnologias & Ferramentas
 
-* 🔭 Desenvolvimento de **projetos pessoais e profissionais em Android**
-* 🌱 Estudando constantemente **novas tecnologias e arquiteturas**
-* 🧠 Forte atenção a **Clean Code, arquitetura e boas práticas**
-* 🤝 Aberto a **oportunidades, freelas e colaborações**
+#### 📱 Mobile & Core
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### 📱 Mobile
-
-* Android (Java | Kotlin)
-* MVVM
-* RecyclerView
-* Jetpack (Room, ViewModel, LiveData)
-* Retrofit
-* Firebase (Auth, Firestore, Realtime Database)
-
-### 🌐 Web & Outros
-
-* JavaScript
-* HTML5
-* CSS3
-* Git & GitHub
+#### 🏛️ Arquitetura & Persistência
+* **Architecture:** MVVM, Clean Architecture.
+* **Jetpack:** Room, ViewModel, LiveData, Navigation Component.
+* **Networking:** Retrofit, OkHttp, Consumo de APIs REST.
+* **Web Basics:** JavaScript, HTML5, CSS3.
 
 ---
 
-## 📌 Projetos em Destaque
+### 📌 Projetos em Destaque
 
-### ✔ App de Gerenciamento de Tarefas (Android)
+#### 📝 [Gerenciador de Tarefas](https://github.com/mobile-luiz)
+*App robusto para organização pessoal.*
+* **Tech Stack:** Kotlin, MVVM, Firebase Auth & Firestore.
+* **Destaque:** Implementação de sincronização em tempo real e offline-first.
 
-Aplicativo para organização de tarefas pessoais, com:
-
-* Arquitetura **MVVM**
-* Integração com **Firebase**
-* Sincronização em nuvem
-* Interface simples e intuitiva
-
-### ✔ Aplicativo de Receitas (Android)
-
-Aplicação voltada para consumo e compartilhamento de receitas:
-
-* **RecyclerView** para listagem dinâmica
-* **Retrofit** para consumo de API REST
-* **Room** para persistência local
-* Organização e performance no carregamento de dados
+#### 🍳 [App de Receitas](https://github.com/mobile-luiz)
+*Exploração e compartilhamento de culinária.*
+* **Tech Stack:** Java, Retrofit, Room Database, Glide.
+* **Destaque:** Gerenciamento eficiente de cache de imagens e persistência local de dados.
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
-### 🔥 Linguagens mais utilizadas
+> **Nota:** Usei um link alternativo para evitar aquele erro de "Deployment Paused" que vimos antes.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobile-luiz&layout=compact&langs_count=8&theme=tokyonight)
-
-
-### 📈 Estatísticas gerais
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobile-luiz&show_icons=true&theme=tokyonight)
-
-
-### ⚡ Sequência de commits
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mobile-luiz&theme=tokyonight)
-
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mobile-luiz&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mobile-luiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
 
 ---
 
-## 📫 Contato
+### 📫 Vamos nos conectar?
 
-🔗 **LinkedIn:**
-[https://www.linkedin.com/in/jose-luiz-vicente-90b4b895/](https://www.linkedin.com/in/jose-luiz-vicente-90b4b895/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luiz-vicente-90b4b895/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
-📩 Fique à vontade para entrar em contato para **oportunidades profissionais**, **parcerias** ou troca de conhecimento.
-
----
-
-🚀 *Sempre evoluindo, sempre construindo.*
-
+🚀 *Sempre evoluindo, uma linha de código por vez.*
 
 
 
