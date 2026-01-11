@@ -37,7 +37,6 @@ Sou um desenvolvedor focado no ecossistema Android, apaixonado por criar aplica�
 
 ### 📊 Estatísticas do GitHub
 
-> **Nota:** Usei um link alternativo para evitar aquele erro de "Deployment Paused" que vimos antes.
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mobile-luiz&layout=compact&langs_count=8&theme=tokyonight" />
