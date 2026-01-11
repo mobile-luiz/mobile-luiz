@@ -1,24 +1,90 @@
-### Olá! 👋
+# 👋 Olá! Eu sou Luiz
 
-Me chamo Luiz e sou um desenvolvedor de aplicativos móveis. Bem-vindo ao meu perfil do GitHub!
+💻 **Desenvolvedor Mobile | Android**
+📱 Foco em aplicações Android modernas, escaláveis e bem arquitetadas
 
-🔭 Atualmente estou trabalhando em alguns projetos pessoais e explorando novas tecnologias para desenvolvimento mobile. Estou particularmente interessado em desenvolvimento Android, onde tenho experiência sólida e estou sempre em busca de desafios estimulantes.
+Sou desenvolvedor mobile com experiência sólida em **Android**, atuando na criação de aplicações performáticas, com código limpo, boas práticas e foco na experiência do usuário. Tenho perfil proativo, gosto de aprender continuamente e encarar novos desafios técnicos.
 
-🌱 Além do desenvolvimento para Android, tenho conhecimento em várias outras tecnologias, incluindo Java, Kotlin, JavaScript, CSS e HTML. Estou sempre procurando expandir meu conhecimento e me manter atualizado com as últimas tendências no mundo do desenvolvimento de software.
+---
 
-#### Projetos Destacados:
+## 🚀 Sobre mim
 
-- **App de Gerenciamento de Tarefas (Android):** Desenvolvi um aplicativo Android para gerenciamento de tarefas, permitindo aos usuários organizar suas tarefas de forma eficiente. O aplicativo utiliza arquitetura MVVM e integração com Firebase para armazenamento em nuvem.
+* 🔭 Desenvolvimento de **projetos pessoais e profissionais em Android**
+* 🌱 Estudando constantemente **novas tecnologias e arquiteturas**
+* 🧠 Forte atenção a **Clean Code, arquitetura e boas práticas**
+* 🤝 Aberto a **oportunidades, freelas e colaborações**
 
-- **Aplicativo de Receitas (Android):** Contribuí para o desenvolvimento de um aplicativo Android de receitas, onde os usuários podem encontrar e compartilhar receitas de culinária. Utilizei RecyclerView, Retrofit para consumir APIs REST e Room para persistência de dados local.
+---
 
-#### Estatísticas de Linguagens:
+## 🛠️ Tecnologias & Ferramentas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobile-luiz&layout=compact&langs_count=8)](https://github.com/mobile-luiz)
+### 📱 Mobile
 
-📫 Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/jose-luiz-vicente-90b4b895/) para oportunidades de colaboração ou para saber mais sobre meu trabalho.
+* Android (Java | Kotlin)
+* MVVM
+* RecyclerView
+* Jetpack (Room, ViewModel, LiveData)
+* Retrofit
+* Firebase (Auth, Firestore, Realtime Database)
 
-Fique à vontade para explorar meus repositórios e entre em contato se quiser colaborar ou discutir ideias. Estou sempre em busca de novas oportunidades e conexões!
+### 🌐 Web & Outros
+
+* JavaScript
+* HTML5
+* CSS3
+* Git & GitHub
+
+---
+
+## 📌 Projetos em Destaque
+
+### ✔ App de Gerenciamento de Tarefas (Android)
+
+Aplicativo para organização de tarefas pessoais, com:
+
+* Arquitetura **MVVM**
+* Integração com **Firebase**
+* Sincronização em nuvem
+* Interface simples e intuitiva
+
+### ✔ Aplicativo de Receitas (Android)
+
+Aplicação voltada para consumo e compartilhamento de receitas:
+
+* **RecyclerView** para listagem dinâmica
+* **Retrofit** para consumo de API REST
+* **Room** para persistência local
+* Organização e performance no carregamento de dados
+
+---
+
+## 📊 Estatísticas do GitHub
+
+### 🔥 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobile-luiz\&layout=compact\&langs_count=8\&theme=tokyonight)
+
+### 📈 Estatísticas gerais
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobile-luiz\&show_icons=true\&theme=tokyonight\&count_private=true)
+
+### ⚡ Sequência de commits
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mobile-luiz\&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+🔗 **LinkedIn:**
+[https://www.linkedin.com/in/jose-luiz-vicente-90b4b895/](https://www.linkedin.com/in/jose-luiz-vicente-90b4b895/)
+
+📩 Fique à vontade para entrar em contato para **oportunidades profissionais**, **parcerias** ou troca de conhecimento.
+
+---
+
+🚀 *Sempre evoluindo, sempre construindo.*
+
 
 
 
