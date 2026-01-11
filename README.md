@@ -62,15 +62,18 @@ Aplicação voltada para consumo e compartilhamento de receitas:
 
 ### 🔥 Linguagens mais utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobile-luiz\&layout=compact\&langs_count=8\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobile-luiz&layout=compact&langs_count=8&theme=tokyonight)
+
 
 ### 📈 Estatísticas gerais
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobile-luiz\&show_icons=true\&theme=tokyonight\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobile-luiz&show_icons=true&theme=tokyonight)
+
 
 ### ⚡ Sequência de commits
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mobile-luiz\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=mobile-luiz&theme=tokyonight)
+
 
 ---
 
